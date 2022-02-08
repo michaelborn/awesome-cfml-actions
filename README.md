@@ -1,6 +1,7 @@
-# Awesome CFML Github Actions
+# Awesome CFML GitHub Actions
 
 Awesome examples of Github Actions for CFML applications.
+
 ## The List
 
 * [CFFormat](cfformat.md) - auto-format your CFML on every push and every PR.
